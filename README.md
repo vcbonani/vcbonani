@@ -38,6 +38,7 @@ automação de processos e storytelling com dashboards.
 
 | Projeto | Descrição |
 |---|---|
+| [🤖 Assistente de Banco de Dados — LlamaIndex + SQL](https://github.com/vcbonani/llamaindex-assistente-sql-zoop) | Assistente em linguagem natural para consultar banco de dados |
 | [🤖 Assistente de Análise de Dados — LlamaIndex + Pandas](https://github.com/vcbonani/assistente-de-dados) | Assistente de análise de dados desenvolvido com LlamaIndex + Pandas |
 | [🐾 Petshop Analytics — Power BI](https://github.com/vcbonani/gatito-petshop-powerbi-analytics) | Dashboard de análise de negócio construído do zero em Power BI |
 | [☁️ Engenharia de Analytics — AWS Glue](https://github.com/vcbonani/AWS-Engenharia-Analytics) | Pipeline ETL com AWS Glue para ingestão e transformação de dados |
